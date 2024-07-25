@@ -1,0 +1,14 @@
+c:\Users\user\Desktop\Patika-c#\Variables-and-Data-Types\bin\Debug\net8.0\Variables-and-Data-Types.exe
+c:\Users\user\Desktop\Patika-c#\Variables-and-Data-Types\bin\Debug\net8.0\Variables-and-Data-Types.deps.json
+c:\Users\user\Desktop\Patika-c#\Variables-and-Data-Types\bin\Debug\net8.0\Variables-and-Data-Types.runtimeconfig.json
+c:\Users\user\Desktop\Patika-c#\Variables-and-Data-Types\bin\Debug\net8.0\Variables-and-Data-Types.dll
+c:\Users\user\Desktop\Patika-c#\Variables-and-Data-Types\bin\Debug\net8.0\Variables-and-Data-Types.pdb
+c:\Users\user\Desktop\Patika-c#\Variables-and-Data-Types\obj\Debug\net8.0\Variables-and-Data-Types.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\user\Desktop\Patika-c#\Variables-and-Data-Types\obj\Debug\net8.0\Variables-and-Data-Types.AssemblyInfoInputs.cache
+c:\Users\user\Desktop\Patika-c#\Variables-and-Data-Types\obj\Debug\net8.0\Variables-and-Data-Types.AssemblyInfo.cs
+c:\Users\user\Desktop\Patika-c#\Variables-and-Data-Types\obj\Debug\net8.0\Variables-and-Data-Types.csproj.CoreCompileInputs.cache
+c:\Users\user\Desktop\Patika-c#\Variables-and-Data-Types\obj\Debug\net8.0\Variables-and-Data-Types.dll
+c:\Users\user\Desktop\Patika-c#\Variables-and-Data-Types\obj\Debug\net8.0\refint\Variables-and-Data-Types.dll
+c:\Users\user\Desktop\Patika-c#\Variables-and-Data-Types\obj\Debug\net8.0\Variables-and-Data-Types.pdb
+c:\Users\user\Desktop\Patika-c#\Variables-and-Data-Types\obj\Debug\net8.0\Variables-and-Data-Types.genruntimeconfig.cache
+c:\Users\user\Desktop\Patika-c#\Variables-and-Data-Types\obj\Debug\net8.0\ref\Variables-and-Data-Types.dll
